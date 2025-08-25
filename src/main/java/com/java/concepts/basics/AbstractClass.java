@@ -29,7 +29,6 @@ public class AbstractClass {
         Vehicle1 car = new Car5();
         car.start(); // Output: Car starts with a key.
         car.stop();  // Output: Vehicle has stopped.
-
         Vehicle1 bike = new Bike();
         bike.start(); // Output: Bike starts with a kick or button.
         bike.stop();  // Output: Vehicle has stopped.
